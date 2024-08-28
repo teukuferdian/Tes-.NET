@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\bin\Debug\net8.0\ParkingSystem.exe
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\bin\Debug\net8.0\ParkingSystem.deps.json
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\bin\Debug\net8.0\ParkingSystem.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\bin\Debug\net8.0\ParkingSystem.dll
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\bin\Debug\net8.0\ParkingSystem.pdb
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ParkingSystem.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ParkingSystem.dll
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\refint\ParkingSystem.dll
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ParkingSystem.pdb
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ParkingSystem.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Sistem Parkir\ParkingSystem\obj\Debug\net8.0\ref\ParkingSystem.dll
